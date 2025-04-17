@@ -30,3 +30,6 @@ httpie==3.2.1
 
 # HTTP security headers for Flask apps
 Flask-Talisman==1.0.0
+
+# Adds CORS support to Flask
+Flask-Cors==5.0.1
